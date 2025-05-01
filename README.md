@@ -27,3 +27,5 @@ Each generation, the grid updates based on these rules:
 ---
 
 ![Recording 2025-04-30 222203](https://github.com/user-attachments/assets/9435e40b-82a1-46dd-a934-5e688a180c28)
+
+---
