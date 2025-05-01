@@ -1,4 +1,4 @@
-# 🌱 GameOfLife - Conway’s Cellular Automaton Simulator (Screenshots are below)
+# 🧬 GameOfLife - Conway’s Cellular Automaton Simulator (Screenshots are below)
 
 **A simulation of Conway’s Game of Life — draw an initial pattern of living cells and watch them evolve endlessly through simple, mesmerizing rules.**
 
